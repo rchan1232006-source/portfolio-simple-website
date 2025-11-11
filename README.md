@@ -23,5 +23,5 @@ View the live site on GitHub Pages: [link]
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/your-repo-name.git
+
 Open index.html in your browser to view the site.
